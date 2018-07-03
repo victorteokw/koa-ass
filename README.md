@@ -1,2 +1,3 @@
 # koa-ass
-Koa middleware passing value to context
+
+Koa middleware that passes value to context.
